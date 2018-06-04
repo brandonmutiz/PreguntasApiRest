@@ -733,6 +733,13 @@ app.get('/estado', (req, res) => {
     res.send(estado)
 })
 
+
+// URL para listar todos las preguntas juvenil
+// http://127.0.0.1:5000/niveles
+app.get('/juvenil', (req, res) => {
+    res.send(juvenil)
+})
+
 // URL para añadir un usuario
 // http://127.0.0.1:5000/users
 
