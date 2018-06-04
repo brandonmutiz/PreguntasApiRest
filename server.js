@@ -612,8 +612,6 @@ let estrella=[
 		]
 
 			}
-
-
 	
 
 ];
