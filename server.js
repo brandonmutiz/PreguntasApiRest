@@ -1178,8 +1178,8 @@ app.get('/profesional', (req, res) => {
 
     // URL para listar todos las preguntas leyenda
 // http://127.0.0.1:5000/estrella
-app.get('/leyenda', (req, res) => {
-    res.send(leyenda)
+app.get('/estrella', (req, res) => {
+    res.send(estrella)
 })
 // URL para añadir un usuario
 // http://127.0.0.1:5000/users
