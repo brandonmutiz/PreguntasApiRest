@@ -21,7 +21,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // URL raiz de la api
 // http://127.0.0.1:5000
 app.get('/', (req, res) => {
-    res.status(200).send("Welcome to API REST")
+    res.status(200).send("BIENNNNNVENIDOOOOO")
 })
 
 // URL para listar todos los usuarios
