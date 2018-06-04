@@ -468,6 +468,162 @@ let estrella=[
 
 ];
 
+let leyenda=[
+
+{ id : 1, 
+			nom_preg:'¿Cuál es el jugador con la expulsión más rápida con 52 segundos en la historia de los mundiales?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'José Batista',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Jorge Valdano',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Enzo Scifo',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Gary Lineker',
+			estado:'0'
+			}
+
+																																
+		]
+
+			},
+
+			{			
+
+			id : 2, 
+			nom_preg:'¿En qué estadio se disputó la final del Mundial de Francia 1998?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Velodrome',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Parque de los Principes',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Saint Dennis',
+				estado:'1'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Stade Jacques',
+			estado:'0'
+			}
+
+																																
+		]
+
+			},
+			{			
+
+			id : 3, 
+			nom_preg:'¿Jugador que ha marcado el único gol olímpico en la historia de los mundiales?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Marcos Coll',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Cesareo Onzari',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Lev Yashin',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Leonel Sanchez',
+			estado:'0'
+			}
+
+																																
+		]
+
+			},
+			{			
+
+			id : 4, 
+			nom_preg:'¿En qué mundial se permitió por primera vez la sustitución de jugadores?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'México 1970',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Italia 1934',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Brasil 1950',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Alemania 1974',
+			estado:'0'
+			}
+
+																																
+		]
+
+			},
+			{			
+
+			id : 5, 
+			nom_preg:'¿Qué jugador marco el primer autogol de la historia?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Manuel Rosas',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Djalma Santos',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Gary Neville',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Ivan Beck',
+			estado:'0'
+			}
+
+																																
+		]
+
+			}
+
+
+
+];
+
 
 
 let mundialitoscore= [
@@ -1180,6 +1336,12 @@ app.get('/profesional', (req, res) => {
 // http://127.0.0.1:5000/estrella
 app.get('/estrella', (req, res) => {
     res.send(estrella)
+})
+
+    // URL para listar todos las preguntas leyenda
+// http://127.0.0.1:5000/estrella
+app.get('/leyenda', (req, res) => {
+    res.send(leyenda)
 })
 // URL para añadir un usuario
 // http://127.0.0.1:5000/users
