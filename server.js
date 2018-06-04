@@ -318,6 +318,156 @@ let profesional=[
 
 ];
 
+let estrella=[
+
+	{ id : 1, 
+			nom_preg:'¿Cuál es  la selección que más finales ha jugado y que no ha ganado ninguna?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Belgica',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Inglaterra',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Alemania',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Holanda',
+			estado:'1'
+			}
+																																
+		]
+
+			},
+			{			
+
+			id : 2, 
+			nom_preg:'¿El gol más rápido que se ha registrado en la historia de los mundiales fue anotado por?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Hakan Ükür',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Vaclav Masek',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Bryan Robson',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Celso Ayala',
+			estado:'0'
+			}
+																																
+		]
+
+			},
+			{			
+
+			id : 3, 
+			nom_preg:'¿La mascota oficial apodada “naranjito” fue en el mundial de?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'España1982',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Holanda1990',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Francia 1988',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Mexico1986',
+			estado:'0'
+			}
+																																
+		]
+
+			},
+			{			
+
+			id : 4, 
+			nom_preg:'¿Qué selección se Corono Campeón en el mundial EE.UU 1994?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Brasil',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Italia',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Suecia',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Inglaterra',
+			estado:'0'
+			}
+																																
+		]
+
+			},
+			{			
+
+			id : 5, 
+			nom_preg:'¿Cuándo fue la última vez que se disputo un mundial con 16 selecciones?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Mexico86',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'España82',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Argentina78',
+				estado:'1'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Alemania74',
+			estado:'0'
+			}
+																																
+		]
+
+			}																				
+						
+					 
+
+];
+
 let mundialitoscore= [
 	{
 		id:1,
@@ -1003,24 +1153,30 @@ app.get('/users', (req, res) => {
 })
 
 // URL para listar todos los estados
-// http://127.0.0.1:5000/niveles
+// http://127.0.0.1:5000/estados
 app.get('/estado', (req, res) => {
     res.send(estado)
 })
 
 
 // URL para listar todos las preguntas juvenil
-// http://127.0.0.1:5000/niveles
+// http://127.0.0.1:5000/juvenil
 app.get('/juvenil', (req, res) => {
     res.send(juvenil)
 })
 
+
 // URL para listar todos las preguntas profesional
-// http://127.0.0.1:5000/niveles
+// http://127.0.0.1:5000/profesional
 app.get('/profesional', (req, res) => {
     res.send(profesional)
 })
 
+// URL para listar todos las preguntas estrella
+// http://127.0.0.1:5000/estrella
+app.get('/estrella', (req, res) => {
+    res.send(estrella)
+})
 // URL para añadir un usuario
 // http://127.0.0.1:5000/users
 
