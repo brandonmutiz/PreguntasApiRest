@@ -39,7 +39,9 @@ let juvenil =[
 
 
 
-}];
+},
+
+];
 
 let mundialitoscore= [
 	{
