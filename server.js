@@ -164,6 +164,159 @@ let juvenil =[
 			}
 
 ];
+let profesional=[
+
+{ 
+	id : 1, 
+			nom_preg:'¿El jugador más veterano en participar en un mundial fue?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Eusebio',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Helmut Haller',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Roger Milla',
+				estado:'1'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Roger Hunt',
+			estado:'0'
+			}
+																																
+		]
+
+		},
+			{			
+
+			id : 2, 
+			nom_preg:'¿El entrenador que ha ganado dos veces seguidas el mundial?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Vittorio Pozo',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Luis Parreira',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Helmut Schön',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Luis Aragonés',
+			estado:'0'
+			}
+																																
+		]
+
+			},
+
+			{			
+
+			id : 3, 
+			nom_preg:'¿Qué selecciones se enfrentaron en el día celebre “maracanazo”?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Brasil vs España',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Alemania vs Inglaterra',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Brasil vs Argentina',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Brasil vs Uruguay',
+			estado:'1'
+			}
+																																
+		]
+
+			},
+
+			{			
+
+			id : 4, 
+			nom_preg:'¿En qué década no se disputo ningún mundial?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Los 30',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Los 40',
+				estado:'1'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Los 50',
+				estado:'0'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Los 60',
+			estado:'0'
+			}
+																																
+		]
+
+			},
+			{			
+
+			id : 5, 
+			nom_preg:'¿En qué año disputo Colombia su primer mundial?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'1962',
+				estado:'1'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'1990',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'1996',
+				estado:'1'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'1970',
+			estado:'0'
+			}
+																																
+		]
+
+			}
+
+
+}
+
+];
 
 let mundialitoscore= [
 	{
