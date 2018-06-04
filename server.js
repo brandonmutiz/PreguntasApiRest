@@ -1015,6 +1015,12 @@ app.get('/juvenil', (req, res) => {
     res.send(juvenil)
 })
 
+// URL para listar todos las preguntas profesional
+// http://127.0.0.1:5000/niveles
+app.get('/profesional', (req, res) => {
+    res.send(profesional)
+})
+
 // URL para añadir un usuario
 // http://127.0.0.1:5000/users
 
