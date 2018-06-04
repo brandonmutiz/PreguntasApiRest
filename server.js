@@ -11,7 +11,7 @@ let niveles = ['juvenil', 'profesional', 'estrella', 'leyenda'];
 let estado =['1','0'];
 let juvenil =[
 
-{ id : 1, 
+{ 			id : 1, 
 			nom_preg:'¿En qué país se celebró la  primera edición de la Copa del Mundo de fútbol?', 
 			respuestas: [
 			{
@@ -71,6 +71,97 @@ let juvenil =[
 		]
 
 			},
+
+			{			
+
+			id : 3, 
+			nom_preg:'¿Qué selección de futbol ha participado en todos los mundiales?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Alemania',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Argentina',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Brasil',
+				estado:'1'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Francia',
+			estado:'0'
+			}
+
+																														
+		]
+
+			},
+			{			
+
+			id : 4, 
+			nom_preg:'¿Qué selección ha ganado en cinco veces esta competición?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Uruguay',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Alemania',
+					estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Brasil',
+				estado:'1'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Italia',
+			estado:'0'
+			}
+
+																														
+		]
+
+			},
+
+			{			
+
+			id : 5, 
+			nom_preg:'¿Cuál es goleador histórico de los mundiales?', 
+			respuestas: [
+			{
+				id: 1,
+				titulo_resp:'Diego Maradona',
+				estado:'0'
+			},
+			{
+				id: 2 ,
+				titulo_resp:'Pele',
+				estado:'0'
+			},
+			{
+				id: 3 ,
+				titulo_resp:'Ronaldo',
+				estado:'1'
+			},
+			{
+				id: 4 ,
+			titulo_resp:'Messi',
+			estado:'0'
+			}
+
+																																
+		]
+			}
 
 ];
 
