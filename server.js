@@ -314,7 +314,7 @@ let profesional=[
 			}
 
 
-}
+
 
 ];
 
