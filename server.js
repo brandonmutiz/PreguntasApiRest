@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 5000
 
 let users = ['BranndonGame', 'EstebanLGTBI', 'JuanChote9712'];
 let niveles = ['juvenil', 'profesional', 'estrella', 'leyenda'];
-let estado =['1','0'];ç
+let estado =['1','0']
 let mundiales=['brazil2014','rusia2018','quatar2022'];
 let juvenil =[
 
