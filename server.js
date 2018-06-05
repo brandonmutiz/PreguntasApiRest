@@ -8,7 +8,8 @@ const PORT = process.env.PORT || 5000
 
 let users = ['BranndonGame', 'EstebanLGTBI', 'JuanChote9712'];
 let niveles = ['juvenil', 'profesional', 'estrella', 'leyenda'];
-let estado =['1','0'];
+let estado =['1','0'];ç
+let mundiales=['brazil2014','rusia2018','quatar2022'];
 let juvenil =[
 
 { 			id : 1, 
@@ -1303,6 +1304,11 @@ app.get('/niveles', (req, res) => {
     res.send(niveles)
 })
 
+// URL para listar todos los niveles
+// http://127.0.0.1:5000/niveles
+app.get('/mundiales', (req, res) => {
+    res.send(mundiales)
+})
 
 // URL para listar todos los usuarios
 // http://127.0.0.1:5000/users
