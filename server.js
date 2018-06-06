@@ -58,10 +58,29 @@ let preguntas=[
 	respuesta1: 'Alemania',
 	respuesta2: 'Argentina',
 	respuesta3: 'Brasil',
-	respuesta4: 'Italia'
+	respuesta4: 'Italia',
+	correcta:'3'
 
 
-}];
+},
+
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿Cuál es goleador histórico de los mundiales?',
+	respuesta1: 'Diego Maradona',
+	respuesta2: 'Pele',
+	respuesta3: 'Ronaldo',
+	respuesta4: 'Messi'
+	correcta: '3'
+
+	
+}
+
+
+
+
+
+];
 
 
 let juvenil =[
