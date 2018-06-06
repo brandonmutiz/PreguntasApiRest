@@ -47,7 +47,8 @@ let preguntas=[
 	respuesta1: 'Terry Butcher',
 	respuesta2: 'Gary Lineker',
 	respuesta3: 'Diego Maradona',
-	respuesta4: 'Jose Batista'
+	respuesta4: 'Jose Batista',
+	correcta:'3'
 
 },
 
