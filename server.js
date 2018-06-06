@@ -70,7 +70,7 @@ let preguntas=[
 	respuesta1: 'Diego Maradona',
 	respuesta2: 'Pele',
 	respuesta3: 'Ronaldo',
-	respuesta4: 'Messi'
+	respuesta4: 'Messi',
 	correcta: '3'
 
 	
