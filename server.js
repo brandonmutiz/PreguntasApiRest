@@ -64,33 +64,7 @@ let preguntas=[
 
 
 
-},
-
-{
-	nom_tipo:'juvenil',
-	nom_pregunta:'¿Qué selección ha ganado en cinco veces esta competición?',
-	respuesta1: 'Uruguay',
-	respuesta2: 'Alemania',
-	respuesta3: 'Brasil',
-	respuesta4: 'Italia'
-
-	
-},
-
-{
-	nom_tipo:'juvenil',
-	nom_pregunta:'¿Cuál es goleador histórico de los mundiales?',
-	respuesta1: 'Diego Maradona',
-	respuesta2: 'Pele',
-	respuesta3: 'Ronaldo',
-	respuesta4: 'Messi'
-
-	
-}
-
-
-
-];
+}];
 
 
 let juvenil =[
