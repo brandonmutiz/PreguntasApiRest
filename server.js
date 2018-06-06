@@ -110,6 +110,18 @@ let preguntas=[
 	correcta:'1'
 
 	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿Qué selecciones se enfrentaron en el día celebre “maracanazo”?',
+	respuesta1: 'Brasil vs España',
+	respuesta2: 'Alemania vs Inglaterra',
+	respuesta3: 'Brasil vs Argentina',
+	respuesta4: 'Brasil vs Uruguay ',
+	correcta:'4'
+
+	
 }
 
 
