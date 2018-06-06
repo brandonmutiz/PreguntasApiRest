@@ -1540,6 +1540,11 @@ app.get('/', (req, res) => {
 app.get('/mundialitoscore', (req, res) => {
     res.send(mundialitoscore)
 })
+// URL para listar todos los mundialitos
+// http://127.0.0.1:5000/mundialitoscore
+app.get('/preguntas', (req, res) => {
+    res.send(preguntas)
+})
 
 // URL para listar todos los niveles
 // http://127.0.0.1:5000/niveles
