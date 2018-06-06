@@ -168,6 +168,42 @@ let preguntas=[
 	respuesta4: 'Celso Ayala',
 	correcta:'1'
 	
+},
+
+
+
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿La mascota oficial apodada “naranjito” fue en el mundial de:?',
+	respuesta1: 'España1982',
+	respuesta2: 'Holanda1990',
+	respuesta3: 'Francia1988',
+	respuesta4: 'Mexico1986',
+	correcta:'1'
+
+	
+},
+
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿Qué selección se Corono Campeón en el mundial EE.UU 1994?',
+	respuesta1: 'Brasil',
+	respuesta2: 'Italia',
+	respuesta3: 'Suecia',
+	respuesta4: 'Inglaterra',
+	correcta:'1'
+	
+},
+
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿Cuándo fue la última vez que se disputo un mundial con 16 selecciones?',
+	respuesta1: 'Mexico86',
+	respuesta2: 'España82',
+	respuesta3: 'Argentina78',
+	respuesta4: 'Alemania74',
+	correcta:'3'
+	
 }
 
 
