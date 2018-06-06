@@ -33,10 +33,10 @@ let preguntas=[
 {
 	nom_tipo:'juvenil',
 	nom_pregunta:'¿En qué país se celebró la  primera edición de la Copa del Mundo de fútbol?',
-	respuesta1: 'Francia',
-	respuesta2: 'Inglaterra',
-	respuesta3: 'Uruguay',
-	respuesta4: 'Holanda'
+	respuesta1: 'Francia', estado:'0',
+	respuesta2: 'Inglaterra', estado:'0',
+	respuesta3: 'Uruguay', estado:'1',
+	respuesta4: 'Holanda', estado:'0'
 
 },
 
