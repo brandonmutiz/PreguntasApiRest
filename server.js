@@ -204,6 +204,41 @@ let preguntas=[
 	respuesta4: 'Alemania74',
 	correcta:'3'
 	
+},
+
+{
+	nom_tipo:'leyenda',
+	nom_pregunta:'¿Cuál es el jugador con la expulsión más rápida con 52 segundos en la historia de los mundiales?',
+	respuesta1: 'Jorge Batista',
+	respuesta2: 'Jose Valdano',
+	respuesta3: 'Enzo Scifo',
+	respuesta4: 'Gary Lineker',
+	correcta:'1'
+
+	
+},
+
+{
+	nom_tipo:'leyenda',
+	nom_pregunta:'¿En qué estadio se disputó la final del Mundial de Francia 1998?',
+	respuesta1: 'Velodrome',
+	respuesta2: 'Parque de los Principes',
+	respuesta3: 'Saint Dennis',
+	respuesta4: 'Stade Jacques',
+	correcta:'3'
+
+	
+},
+
+{
+	nom_tipo:'leyenda',
+	nom_pregunta:'¿Jugador que ha marcado el único gol olímpico en la historia de los mundiales?',
+	respuesta1: 'Marcos Coll',
+	respuesta2: 'Cesareo Onzari',
+	respuesta3: 'Lev Yashin',
+	respuesta4: 'Leonel Sanchez',
+	correcta:'1'
+	
 }
 
 
