@@ -239,6 +239,30 @@ let preguntas=[
 	respuesta4: 'Leonel Sanchez',
 	correcta:'1'
 	
+},
+
+{
+	nom_tipo:'leyenda',
+	nom_pregunta:'¿En qué mundial se permitió por primera vez la sustitución de jugadores?',
+	respuesta1: 'México 1970',
+	respuesta2: 'Italia 1934',
+	respuesta3: 'Brasil 1950',
+	respuesta4: 'Alemania 1974',
+	correcta:'1'
+
+	
+},
+
+{
+	nom_tipo:'leyenda',
+	nom_pregunta:'Qué jugador marco el primer autogol de la historia?',
+	respuesta1: 'Manuel Rosas',
+	respuesta2: 'Djalma Santos',
+	respuesta3: 'Gary Neville',
+	respuesta4: 'Ivan Beck',
+	correcta:'1'
+
+	
 }
 
 
