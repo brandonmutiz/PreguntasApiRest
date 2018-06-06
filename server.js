@@ -250,15 +250,7 @@ let preguntas=[
 }
 
 
-
-
-
 ];
-
-
-
-
-
 
 
 let juvenil =[
