@@ -37,7 +37,7 @@ let preguntas=[
 	respuesta2: 'Inglaterra', 
 	respuesta3: 'Uruguay', 
 	respuesta4: 'Holanda',
-	respuesta: '3'
+	correcta: '3'
 
 },
 
@@ -47,7 +47,8 @@ let preguntas=[
 	respuesta1: 'Terry Butcher',
 	respuesta2: 'Gary Lineker',
 	respuesta3: 'Diego Maradona',
-	respuesta4: 'Jose Batista'
+	respuesta4: 'Jose Batista',
+	correcta: '3'
 
 },
 
@@ -58,6 +59,49 @@ let preguntas=[
 	respuesta2: 'Argentina',
 	respuesta3: 'Brasil',
 	respuesta4: 'Italia'
+	correcta: '3'
+
+},
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿Qué selección ha ganado en cinco veces esta competición?',
+	respuesta1: 'Uruguay',
+	respuesta2: 'Alemania',
+	respuesta3: 'Brasil',
+	respuesta4: 'Italia'
+
+	
+},
+
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿Cuál es goleador histórico de los mundiales?',
+	respuesta1: 'Diego Maradona',
+	respuesta2: 'Pele',
+	respuesta3: 'Ronaldo',
+	respuesta4: 'Messi'
+
+	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿El jugador más veterano en participar en un mundial fue?',
+	respuesta1: 'Eusebio',
+	respuesta2: 'Helmut Haller',
+	respuesta3: 'Roger Milla',
+	respuesta4: 'Roger Hunt '
+
+	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿El entrenador que ha ganado dos veces seguidas el mundial?',
+	respuesta1: 'Vittorio Pozo',
+	respuesta2: 'Luis Parreira ',
+	respuesta3: 'Helmut Schön',
+	respuesta4: 'Luis Aragonés '
 
 
 }];
