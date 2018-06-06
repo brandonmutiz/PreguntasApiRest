@@ -7,7 +7,7 @@ const hostname = 'https://brandonmutizapirest.herokuapp.com';
 const PORT = process.env.PORT || 5000
 
 let users = ['BranndonGame', 'EstebanLGTBI', 'JuanChote9712'];
-let niveles = [{nom_nivel:'Juvenil', 'Profesional', 'Estrella', 'Leyenda'}];
+let niveles = ['juvenil', 'profesional', 'estrella', 'leyenda'];
 let estado =['1','0']
 let mundiales=[{
 	nom_mundi:'brazil2014',
