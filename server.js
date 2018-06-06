@@ -122,6 +122,29 @@ let preguntas=[
 	correcta:'4'
 
 	
+},
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿En qué década no se disputo ningún mundial?',
+	respuesta1: 'Los 30',
+	respuesta2: 'Los 40',
+	respuesta3: 'Los 50',
+	respuesta4: 'Los 60',
+	correcta:'2'
+
+	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿En qué año disputo Colombia su primer mundial?',
+	respuesta1: '1962',
+	respuesta2: '1990',
+	respuesta3: '1996',
+	respuesta4: '1970',
+	correcta:'1'
+
+	
 }
 
 
