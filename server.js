@@ -145,6 +145,29 @@ let preguntas=[
 	correcta:'1'
 
 	
+},
+
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿Cuál es  la selección que más finales ha jugado y que no ha ganado ninguna?',
+	respuesta1: 'Belgica',
+	respuesta2: 'Inglaterra',
+	respuesta3: 'Alemania',
+	respuesta4: 'Holanda',
+	correcta:'4'
+
+	
+},
+
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿El gol más rápido que se ha registrado en la historia de los mundiales fue anotado por?',
+	respuesta1: 'Hakan Ükür',
+	respuesta2: 'Vaclav Masek',
+	respuesta3: 'Bryan Robson',
+	respuesta4: 'Celso Ayala',
+	correcta:'1'
+	
 }
 
 
