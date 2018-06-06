@@ -9,14 +9,31 @@ const PORT = process.env.PORT || 5000
 let users = ['BranndonGame', 'EstebanLGTBI', 'JuanChote9712'];
 let niveles = [{nom_nivel:'Juvenil', 'Profesional', 'Estrella', 'Leyenda'}];
 let estado =['1','0']
+let mundiales=[{
+	nom_mundi:'brazil2014',
+	photo: 'http://img.fifa.com/mm/photo/tournament/competition/01/27/05/83/1270583_large-lnd.jpg'
+},
 
 
+{	nom_mundi:'rusia2018',
+	photo:'https://images.vexels.com/media/users/3/143513/preview2/5974ca34f57b8dbcf2a9c79e1881eb88-emblema-de-rusia-2018.jpg'
+
+},
+
+{	nom_mundi:'qatar2022',
+	photo:'https://upload.wikimedia.org/wikipedia/commons/6/69/Qatar_2022_Logo.png'
+
+
+}
+
+
+	];
 
 
 let juvenil =[
 
 { 			id : 1, 
-			nom_preg:'¿En qué país se celebró la  primera edición de la Copa del Mundo de fútbol?',
+			nom_preg:'¿En qué país se celebró la  primera edición de la Copa del Mundo de fútbol?', 
 			respuestas: [
 			{
 				id: 1,
@@ -168,7 +185,6 @@ let juvenil =[
 			}
 
 ];
-
 let profesional=[
 
 { 
@@ -398,7 +414,7 @@ let estrella=[
 			},
 			{
 				id: 3 ,
-				titulo_resp:'Francia1988',
+				titulo_resp:'Francia 1988',
 				estado:'0'
 			},
 			{
@@ -1300,11 +1316,6 @@ app.get('/', (req, res) => {
 // http://127.0.0.1:5000/mundialitoscore
 app.get('/mundialitoscore', (req, res) => {
     res.send(mundialitoscore)
-})
-// URL para listar todos los mundialitos
-// http://127.0.0.1:5000/mundialitoscore
-app.get('/preguntas', (req, res) => {
-    res.send(preguntas)
 })
 
 // URL para listar todos los niveles
