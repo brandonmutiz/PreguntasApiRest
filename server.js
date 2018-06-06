@@ -31,7 +31,7 @@ let mundiales=[{
 
 let preguntas=[
 {
-	nom_tipo:'juvenil'
+	nom_tipo:'juvenil',
 	nom_pregunta:'¿En qué país se celebró la  primera edición de la Copa del Mundo de fútbol?',
 	respuesta1: 'Francia',
 	respuesta2: 'Inglaterra',
@@ -40,7 +40,7 @@ let preguntas=[
 
 },
 {
-	nom_tipo:'juvenil'
+	nom_tipo:'juvenil',
 	nom_pregunta:'¿El mejor gol de la historia de los mundiales es una obra del jugador?',
 	respuesta1: 'Terry Butcher',
 	respuesta2: 'Gary Lineker',
@@ -50,7 +50,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'juvenil'
+	nom_tipo:'juvenil',
 	nom_pregunta:'¿Qué selección de futbol ha participado en todos los mundiales?',
 	respuesta1: 'Alemania',
 	respuesta2: 'Argentina',
@@ -62,7 +62,7 @@ let preguntas=[
 
 
 {
-	nom_tipo:'juvenil'
+	nom_tipo:'juvenil',
 	nom_pregunta:'¿Qué selección ha ganado en cinco veces esta competición?',
 	respuesta1: 'Uruguay',
 	respuesta2: 'Alemania',
@@ -73,7 +73,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'juvenil'
+	nom_tipo:'juvenil',
 	nom_pregunta:'¿Cuál es goleador histórico de los mundiales?',
 	respuesta1: 'Diego Maradona',
 	respuesta2: 'Pele',
@@ -84,7 +84,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'profesional'
+	nom_tipo:'profesional',
 	nom_pregunta:'¿El jugador más veterano en participar en un mundial fue?',
 	respuesta1: 'Eusebio',
 	respuesta2: 'Helmut Haller',
@@ -95,7 +95,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'profesional'
+	nom_tipo:'profesional',
 	nom_pregunta:'¿El entrenador que ha ganado dos veces seguidas el mundial?',
 	respuesta1: 'Vittorio Pozo',
 	respuesta2: 'Luis Parreira ',
@@ -106,7 +106,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'profesional'
+	nom_tipo:'profesional',
 	nom_pregunta:'¿Qué selecciones se enfrentaron en el día celebre “maracanazo”?',
 	respuesta1: 'Brasil vs España',
 	respuesta2: 'Alemania vs Inglaterra',
@@ -117,7 +117,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'profesional'
+	nom_tipo:'profesional',
 	nom_pregunta:'¿En qué década no se disputo ningún mundial?',
 	respuesta1: 'Los 30',
 	respuesta2: 'Los 40',
@@ -128,7 +128,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'profesional'
+	nom_tipo:'profesional',
 	nom_pregunta:'¿En qué año disputo Colombia su primer mundial?',
 	respuesta1: '1962',
 	respuesta2: '1990',
@@ -139,7 +139,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'estrella'
+	nom_tipo:'estrella',
 	nom_pregunta:'¿Cuál es  la selección que más finales ha jugado y que no ha ganado ninguna?',
 	respuesta1: 'Belgica',
 	respuesta2: 'Inglaterra',
@@ -150,7 +150,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'estrella'
+	nom_tipo:'estrella',
 	nom_pregunta:'¿El gol más rápido que se ha registrado en la historia de los mundiales fue anotado por?',
 	respuesta1: 'Hakan Ükür',
 	respuesta2: 'Vaclav Masek',
@@ -161,7 +161,7 @@ let preguntas=[
 
 
 {
-	nom_tipo:'estrella'
+	nom_tipo:'estrella',
 	nom_pregunta:'¿La mascota oficial apodada “naranjito” fue en el mundial de:?',
 	respuesta1: 'España1982',
 	respuesta2: 'Holanda1990',
@@ -172,7 +172,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'estrella'
+	nom_tipo:'estrella',
 	nom_pregunta:'¿Qué selección se Corono Campeón en el mundial EE.UU 1994?',
 	respuesta1: 'Brasil',
 	respuesta2: 'Italia',
@@ -183,7 +183,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'estrella'
+	nom_tipo:'estrella',
 	nom_pregunta:'¿Cuándo fue la última vez que se disputo un mundial con 16 selecciones?',
 	respuesta1: 'Mexico86',
 	respuesta2: 'España82',
@@ -194,7 +194,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'leyenda'
+	nom_tipo:'leyenda',
 	nom_pregunta:'¿Cuál es el jugador con la expulsión más rápida con 52 segundos en la historia de los mundiales?',
 	respuesta1: 'Jorge Batista',
 	respuesta2: 'Jose Valdano',
@@ -205,7 +205,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'leyenda'
+	nom_tipo:'leyenda',
 	nom_pregunta:'¿En qué estadio se disputó la final del Mundial de Francia 1998?',
 	respuesta1: 'Velodrome',
 	respuesta2: 'Parque de los Principes',
@@ -216,7 +216,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'leyenda'
+	nom_tipo:'leyenda',
 	nom_pregunta:'¿Jugador que ha marcado el único gol olímpico en la historia de los mundiales?',
 	respuesta1: 'Marcos Coll',
 	respuesta2: 'Cesareo Onzari',
@@ -228,7 +228,7 @@ let preguntas=[
 
 
 {
-	nom_tipo:'leyenda'
+	nom_tipo:'leyenda',
 	nom_pregunta:'¿En qué mundial se permitió por primera vez la sustitución de jugadores?',
 	respuesta1: 'México 1970',
 	respuesta2: 'Italia 1934',
@@ -239,7 +239,7 @@ let preguntas=[
 },
 
 {
-	nom_tipo:'leyenda'
+	nom_tipo:'leyenda',
 	nom_pregunta:'Qué jugador marco el primer autogol de la historia?',
 	respuesta1: 'Manuel Rosas',
 	respuesta2: 'Djalma Santos',
