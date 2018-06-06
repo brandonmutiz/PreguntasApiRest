@@ -63,27 +63,7 @@ let preguntas=[
 
 },
 
-{
-	nom_tipo:'juvenil',
-	nom_pregunta:'¿Cuál es goleador histórico de los mundiales?',
-	respuesta1: 'Diego Maradona',
-	respuesta2: 'Pele',
-	respuesta3: 'Ronaldo',
-	respuesta4: 'Messi'
 
-	
-},
-
-{
-	nom_tipo:'profesional',
-	nom_pregunta:'¿El jugador más veterano en participar en un mundial fue?',
-	respuesta1: 'Eusebio',
-	respuesta2: 'Helmut Haller',
-	respuesta3: 'Roger Milla',
-	respuesta4: 'Roger Hunt '
-
-	
-}
 
 
 
