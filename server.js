@@ -36,7 +36,7 @@ let preguntas=[
 	respuesta1: 'Francia' ,	
 	respuesta2: 'Inglaterra', 
 	respuesta3: 'Uruguay', 
-	respuesta4: 'Holanda'
+	respuesta4: 'Holanda',
 	respuesta: '3'
 
 },
