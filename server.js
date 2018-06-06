@@ -274,159 +274,69 @@ let preguntas=[
 
 let juvenil =[
 
-{ 			id : 1, 
-			nom_preg:'¿En qué país se celebró la  primera edición de la Copa del Mundo de fútbol?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Francia',
-				estado:'0'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Inglaterra',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Uruguay',
-				estado:'1'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Holanda',
-			estado:'0'
-			}
-																																
-		]
+{ 	nom_tipo:'juvenil',
+	nom_pregunta:'¿En qué país se celebró la  primera edición de la Copa del Mundo de fútbol?',
+	respuesta1: 'Francia' ,	
+	respuesta2: 'Inglaterra', 
+	respuesta3: 'Uruguay', 
+	respuesta4: 'Holanda',
+	correcta: '3'
 
 
 
 },
 
-{			
 
-			id : 2, 
-			nom_preg:'¿El mejor gol de la historia de los mundiales es una obra del jugador?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Terry Butcher',
-				estado:'0'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Gary Lineker',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Diego Maradona',
-				estado:'1'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Jose Batista',
-			estado:'0'
-			}
 
-																															
-		]
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿El mejor gol de la historia de los mundiales es una obra del jugador?',
+	respuesta1: 'Terry Butcher',
+	respuesta2: 'Gary Lineker',
+	respuesta3: 'Diego Maradona',
+	respuesta4: 'Jose Batista',
+	correcta:'3'
 
-			},
+},
 
-			{			
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿Qué selección de futbol ha participado en todos los mundiales?',
+	respuesta1: 'Alemania',
+	respuesta2: 'Argentina',
+	respuesta3: 'Brasil',
+	respuesta4: 'Italia',
+	correcta:'3'
 
-			id : 3, 
-			nom_preg:'¿Qué selección de futbol ha participado en todos los mundiales?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Alemania',
-				estado:'0'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Argentina',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Brasil',
-				estado:'1'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Francia',
-			estado:'0'
-			}
 
-																														
-		]
+},
 
-			},
-			{			
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿Qué selección ha ganado en cinco veces esta competición?',
+	respuesta1: 'Uruguay',
+	respuesta2: 'Alemania',
+	respuesta3: 'Brasil',
+	respuesta4: 'Italia',
+	correcta:'3'
 
-			id : 4, 
-			nom_preg:'¿Qué selección ha ganado en cinco veces esta competición?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Uruguay',
-				estado:'0'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Alemania',
-					estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Brasil',
-				estado:'1'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Italia',
-			estado:'0'
-			}
+	
+},
 
-																														
-		]
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿Cuál es goleador histórico de los mundiales?',
+	respuesta1: 'Diego Maradona',
+	respuesta2: 'Pele',
+	respuesta3: 'Ronaldo',
+	respuesta4: 'Messi',
+	correcta: '3'
 
-			},
 
-			{			
-
-			id : 5, 
-			nom_preg:'¿Cuál es goleador histórico de los mundiales?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Diego Maradona',
-				estado:'0'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Pele',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Ronaldo',
-				estado:'1'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Messi',
-			estado:'0'
-			}
-
-																																
-		]
-			}
-
+}
 ];
+
+
 let profesional=[
 
 { 
