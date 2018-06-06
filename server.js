@@ -38,6 +38,27 @@ let preguntas=[
 	respuesta3: 'Uruguay',
 	respuesta4: 'Holanda'
 
+},
+
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿El mejor gol de la historia de los mundiales es una obra del jugador?',
+	respuesta1: 'Terry Butcher',
+	respuesta2: 'Gary Lineker',
+	respuesta3: 'Diego Maradona',
+	respuesta4: 'Jose Batista'
+
+},
+
+{
+	nom_tipo:'juvenil',
+	nom_pregunta:'¿Qué selección de futbol ha participado en todos los mundiales?',
+	respuesta1: 'Alemania',
+	respuesta2: 'Argentina',
+	respuesta3: 'Brasil',
+	respuesta4: 'Italia'
+
+
 }];
 
 
