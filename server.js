@@ -74,6 +74,30 @@ let preguntas=[
 	correcta: '3'
 
 	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿El jugador más veterano en participar en un mundial fue?',
+	respuesta1: 'Eusebio',
+	respuesta2: 'Helmut Haller',
+	respuesta3: 'Roger Milla',
+	respuesta4: 'Roger Hunt ',
+	correcta:'3'
+
+	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿El entrenador que ha ganado dos veces seguidas el mundial?',
+	respuesta1: 'Vittorio Pozo',
+	respuesta2: 'Luis Parreira ',
+	respuesta3: 'Helmut Schön',
+	respuesta4: 'Luis Aragonés ',
+	correcta:'1'
+
+	
 }
 
 
