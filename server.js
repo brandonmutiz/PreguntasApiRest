@@ -1337,6 +1337,12 @@ app.get('/niveles', (req, res) => {
 
 // URL para listar todos los niveles
 // http://127.0.0.1:5000/niveles
+app.get('/preguntas', (req, res) => {
+    res.send(preguntas)
+})
+
+// URL para listar todos los niveles
+// http://127.0.0.1:5000/niveles
 app.get('/mundiales', (req, res) => {
     res.send(mundiales)
 })
