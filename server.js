@@ -61,14 +61,7 @@ let preguntas=[
 	respuesta4: 'Italia'
 	correcta: '3'
 
-},
-
-
-
-
-
-
-];
+}];
 
 
 let juvenil =[
