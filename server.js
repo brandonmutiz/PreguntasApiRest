@@ -45,7 +45,7 @@ let preguntas=[
 	respuesta1: 'Terry Butcher',
 	respuesta2: 'Gary Lineker',
 	respuesta3: 'Diego Maradona',
-	respuesta4: 'Jose Batista',
+	respuesta4: 'Jose Batista'
 
 },
 
@@ -55,7 +55,7 @@ let preguntas=[
 	respuesta1: 'Alemania',
 	respuesta2: 'Argentina',
 	respuesta3: 'Brasil',
-	respuesta4: 'Italia',
+	respuesta4: 'Italia'
 
 
 },
@@ -67,7 +67,7 @@ let preguntas=[
 	respuesta1: 'Uruguay',
 	respuesta2: 'Alemania',
 	respuesta3: 'Brasil',
-	respuesta4: 'Italia',
+	respuesta4: 'Italia'
 
 	
 },
@@ -78,7 +78,7 @@ let preguntas=[
 	respuesta1: 'Diego Maradona',
 	respuesta2: 'Pele',
 	respuesta3: 'Ronaldo',
-	respuesta4: 'Messi',
+	respuesta4: 'Messi'
 
 	
 },
@@ -89,7 +89,7 @@ let preguntas=[
 	respuesta1: 'Eusebio',
 	respuesta2: 'Helmut Haller',
 	respuesta3: 'Roger Milla',
-	respuesta4: 'Roger Hunt ',
+	respuesta4: 'Roger Hunt '
 
 	
 },
@@ -100,7 +100,7 @@ let preguntas=[
 	respuesta1: 'Vittorio Pozo',
 	respuesta2: 'Luis Parreira ',
 	respuesta3: 'Helmut Schön',
-	respuesta4: 'Luis Aragonés ',
+	respuesta4: 'Luis Aragonés '
 
 	
 },
@@ -111,7 +111,7 @@ let preguntas=[
 	respuesta1: 'Brasil vs España',
 	respuesta2: 'Alemania vs Inglaterra',
 	respuesta3: 'Brasil vs Argentina',
-	respuesta4: 'Brasil vs Uruguay ',
+	respuesta4: 'Brasil vs Uruguay '
 
 	
 },
@@ -122,7 +122,7 @@ let preguntas=[
 	respuesta1: 'Los 30',
 	respuesta2: 'Los 40',
 	respuesta3: 'Los 50',
-	respuesta4: 'Los 60',
+	respuesta4: 'Los 60'
 
 	
 },
@@ -133,7 +133,7 @@ let preguntas=[
 	respuesta1: '1962',
 	respuesta2: '1990',
 	respuesta3: '1996',
-	respuesta4: '1970',
+	respuesta4: '1970'
 
 	
 },
@@ -144,7 +144,7 @@ let preguntas=[
 	respuesta1: 'Belgica',
 	respuesta2: 'Inglaterra',
 	respuesta3: 'Alemania',
-	respuesta4: 'Holanda',
+	respuesta4: 'Holanda'
 
 	
 },
@@ -155,8 +155,7 @@ let preguntas=[
 	respuesta1: 'Hakan Ükür',
 	respuesta2: 'Vaclav Masek',
 	respuesta3: 'Bryan Robson',
-	respuesta4: 'Celso Ayala',
-
+	respuesta4: 'Celso Ayala'
 	
 },
 
@@ -167,7 +166,7 @@ let preguntas=[
 	respuesta1: 'España1982',
 	respuesta2: 'Holanda1990',
 	respuesta3: 'Francia1988',
-	respuesta4: 'Mexico1986',
+	respuesta4: 'Mexico1986'
 
 	
 },
@@ -178,7 +177,7 @@ let preguntas=[
 	respuesta1: 'Brasil',
 	respuesta2: 'Italia',
 	respuesta3: 'Suecia',
-	respuesta4: 'Inglaterra',
+	respuesta4: 'Inglaterra'
 
 	
 },
@@ -189,7 +188,7 @@ let preguntas=[
 	respuesta1: 'Mexico86',
 	respuesta2: 'España82',
 	respuesta3: 'Argentina78',
-	respuesta4: 'Alemania74',
+	respuesta4: 'Alemania74'
 
 	
 },
@@ -200,7 +199,7 @@ let preguntas=[
 	respuesta1: 'Jorge Batista',
 	respuesta2: 'Jose Valdano',
 	respuesta3: 'Enzo Scifo',
-	respuesta4: 'Gary Lineker',
+	respuesta4: 'Gary Lineker'
 
 	
 },
@@ -211,7 +210,7 @@ let preguntas=[
 	respuesta1: 'Velodrome',
 	respuesta2: 'Parque de los Principes',
 	respuesta3: 'Saint Dennis',
-	respuesta4: 'Stade Jacques',
+	respuesta4: 'Stade Jacques'
 
 	
 },
@@ -222,7 +221,7 @@ let preguntas=[
 	respuesta1: 'Marcos Coll',
 	respuesta2: 'Cesareo Onzari',
 	respuesta3: 'Lev Yashin',
-	respuesta4: 'Leonel Sanchez',
+	respuesta4: 'Leonel Sanchez'
 
 	
 },
@@ -234,7 +233,7 @@ let preguntas=[
 	respuesta1: 'México 1970',
 	respuesta2: 'Italia 1934',
 	respuesta3: 'Brasil 1950',
-	respuesta4: 'Alemania 1974',
+	respuesta4: 'Alemania 1974'
 
 	
 },
@@ -245,7 +244,7 @@ let preguntas=[
 	respuesta1: 'Manuel Rosas',
 	respuesta2: 'Djalma Santos',
 	respuesta3: 'Gary Neville',
-	respuesta4: 'Ivan Beck',
+	respuesta4: 'Ivan Beck'
 
 	
 }
