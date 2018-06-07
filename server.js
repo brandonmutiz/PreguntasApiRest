@@ -336,6 +336,69 @@ let juvenil =[
 }
 ];
 
+let profesional=[{
+
+nom_tipo:'profesional',
+	nom_pregunta:'¿El jugador más veterano en participar en un mundial fue?',
+	respuesta1: 'Eusebio',
+	respuesta2: 'Helmut Haller',
+	respuesta3: 'Roger Milla',
+	respuesta4: 'Roger Hunt ',
+	correcta:'3'
+
+	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿El entrenador que ha ganado dos veces seguidas el mundial?',
+	respuesta1: 'Vittorio Pozo',
+	respuesta2: 'Luis Parreira ',
+	respuesta3: 'Helmut Schön',
+	respuesta4: 'Luis Aragonés ',
+	correcta:'1'
+
+	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿Qué selecciones se enfrentaron en el día celebre “maracanazo”?',
+	respuesta1: 'Brasil vs España',
+	respuesta2: 'Alemania vs Inglaterra',
+	respuesta3: 'Brasil vs Argentina',
+	respuesta4: 'Brasil vs Uruguay ',
+	correcta:'4'
+
+	
+},
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿En qué década no se disputo ningún mundial?',
+	respuesta1: 'Los 30',
+	respuesta2: 'Los 40',
+	respuesta3: 'Los 50',
+	respuesta4: 'Los 60',
+	correcta:'2'
+
+	
+},
+
+{
+	nom_tipo:'profesional',
+	nom_pregunta:'¿En qué año disputo Colombia su primer mundial?',
+	respuesta1: '1962',
+	respuesta2: '1990',
+	respuesta3: '1996',
+	respuesta4: '1970',
+	correcta:'1'
+
+	
+}
+
+
+];
+
 
 let profesional=[
 
