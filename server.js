@@ -15,15 +15,15 @@ let registro=[{
 
 },
 
-			usuario:'admin'
+			{usuario:'admin'
 			contraseña:'1234'
-
+}
 ];
 
 let respuestasprofesional=[{
-	respuesta3:'correcta'
-	respuesta3:'correcta'
-	respuesta3:'correcta'
+	respuesta3:'correcta',
+	respuesta3:'correcta',
+	respuesta3:'correcta',
 	respuesta3:'correcta'
 
 }];
