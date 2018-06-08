@@ -63,7 +63,7 @@ let mundiales=[{
 {	nom_mundi:'Mundial de Fútbol Suecia 1962',
 	photo:'https://pics.filmaffinity.com/fussballweltmeisterschaft_chile_1962-354711969-large.jpg'
 
-},
+}
 
 
 	];
