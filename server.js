@@ -15,7 +15,7 @@ let registro=[{
 
 },
 
-			{usuario:'admin'
+			{usuario:'admin',
 			contraseña:'1234'
 }
 ];
