@@ -1264,6 +1264,18 @@ app.get('/mundialitoscore', (req, res) => {
 
 // URL para listar todos los niveles
 // http://127.0.0.1:5000/niveles
+app.get('/registro', (req, res) => {
+    res.send(registro)
+})
+
+// URL para listar todos los niveles
+// http://127.0.0.1:5000/niveles
+app.get('/respuestasprofesional', (req, res) => {
+    res.send(respuestasprofesional)
+})
+
+// URL para listar todos los niveles
+// http://127.0.0.1:5000/niveles
 app.get('/niveles', (req, res) => {
     res.send(niveles)
 })
