@@ -9,6 +9,8 @@ const PORT = process.env.PORT || 5000
 let users = ['BranndonGame', 'EstebanLGTBI', 'JuanChote9712'];
 let niveles = ['juvenil', 'profesional', 'estrella', 'leyenda'];
 let estado =['1','0']
+
+
 let mundiales=[{
 	nom_mundi:'brazil2014',
 	photo: 'http://img.fifa.com/mm/photo/tournament/competition/01/27/05/83/1270583_large-lnd.jpg'
@@ -24,7 +26,44 @@ let mundiales=[{
 	photo:'https://upload.wikimedia.org/wikipedia/commons/6/69/Qatar_2022_Logo.png'
 
 
-}
+},
+{	nom_mundi:'Mundial de Fútbol Uruguay 1930',
+	photo:'https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Uruguay_1930_World_Cup.jpg/200px-Uruguay_1930_World_Cup.jpg'
+
+
+},
+
+{	nom_mundi:'Mundial de Fútbol Italia 1934',
+	photo:'https://vignette.wikia.nocookie.net/althistory/images/8/8a/Italia_1934_logo.jpg/revision/latest?cb=20160715160052&path-prefix=es'
+
+
+},
+{	nom_mundi:'Mundial de Fútbol Francia 1938',
+	photo:'https://lh5.googleusercontent.com/-ORK4gCw6hdI/TYT2YLQAsfI/AAAAAAAAAfM/kkzjWZ1rkBY/s1600/Francia-1938%255B1%255D.jpg'
+
+
+},
+
+{	nom_mundi:'Mundial de Fútbol Brasil 1950',
+	photo:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkadU6d0Nb6BV6TqztN8WGi2rT9VxF05Mb2oG36F6xGeKLQPz9'
+
+
+},
+{	nom_mundi:'Mundial de Fútbol Suiza 1954',
+	photo:'http://laciudadrevista.com/wp-content/uploads/2016/11/mundial-de-suiza-1954-logo.jpg'
+
+
+},
+
+{	nom_mundi:'Mundial de Fútbol Suecia 1958',
+	photo:'https://i.pinimg.com/originals/ca/70/ff/ca70ffe4edd3b6d0133905b37a1f9f55.jpg'
+
+},
+
+{	nom_mundi:'Mundial de Fútbol Suecia 1962',
+	photo:'https://pics.filmaffinity.com/fussballweltmeisterschaft_chile_1962-354711969-large.jpg'
+
+},
 
 
 	];
