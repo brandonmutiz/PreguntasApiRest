@@ -403,153 +403,66 @@ let profesional=[
 
 
 let estrella=[
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿Cuál es  la selección que más finales ha jugado y que no ha ganado ninguna?',
+	respuesta1: 'Belgica',
+	respuesta2: 'Inglaterra',
+	respuesta3: 'Alemania',
+	respuesta4: 'Holanda',
+	correcta:'4'
 
-	{ id : 1, 
-			nom_preg:'¿Cuál es  la selección que más finales ha jugado y que no ha ganado ninguna?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Belgica',
-				estado:'0'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Inglaterra',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Alemania',
-				estado:'0'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Holanda',
-			estado:'1'
-			}
-																																
-		]
+	
+},
 
-			},
-			{			
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿El gol más rápido que se ha registrado en la historia de los mundiales fue anotado por?',
+	respuesta1: 'Hakan Ükür',
+	respuesta2: 'Vaclav Masek',
+	respuesta3: 'Bryan Robson',
+	respuesta4: 'Celso Ayala',
+	correcta:'1'
+	
+},
 
-			id : 2, 
-			nom_preg:'¿El gol más rápido que se ha registrado en la historia de los mundiales fue anotado por?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Hakan Ükür',
-				estado:'1'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Vaclav Masek',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Bryan Robson',
-				estado:'0'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Celso Ayala',
-			estado:'0'
-			}
-																																
-		]
 
-			},
-			{			
 
-			id : 3, 
-			nom_preg:'¿La mascota oficial apodada “naranjito” fue en el mundial de?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'España1982',
-				estado:'1'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Holanda1990',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Francia 1988',
-				estado:'0'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Mexico1986',
-			estado:'0'
-			}
-																																
-		]
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿La mascota oficial apodada “naranjito” fue en el mundial de:?',
+	respuesta1: 'España1982',
+	respuesta2: 'Holanda1990',
+	respuesta3: 'Francia1988',
+	respuesta4: 'Mexico1986',
+	correcta:'1'
 
-			},
-			{			
+	
+},
 
-			id : 4, 
-			nom_preg:'¿Qué selección se Corono Campeón en el mundial EE.UU 1994?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Brasil',
-				estado:'1'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'Italia',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Suecia',
-				estado:'0'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Inglaterra',
-			estado:'0'
-			}
-																																
-		]
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿Qué selección se Corono Campeón en el mundial EE.UU 1994?',
+	respuesta1: 'Brasil',
+	respuesta2: 'Italia',
+	respuesta3: 'Suecia',
+	respuesta4: 'Inglaterra',
+	correcta:'1'
+	
+},
 
-			},
-			{			
+{
+	nom_tipo:'estrella',
+	nom_pregunta:'¿Cuándo fue la última vez que se disputo un mundial con 16 selecciones?',
+	respuesta1: 'Mexico86',
+	respuesta2: 'España82',
+	respuesta3: 'Argentina78',
+	respuesta4: 'Alemania74',
+	correcta:'3'
+	
+}
 
-			id : 5, 
-			nom_preg:'¿Cuándo fue la última vez que se disputo un mundial con 16 selecciones?', 
-			respuestas: [
-			{
-				id: 1,
-				titulo_resp:'Mexico86',
-				estado:'0'
-			},
-			{
-				id: 2 ,
-				titulo_resp:'España82',
-				estado:'0'
-			},
-			{
-				id: 3 ,
-				titulo_resp:'Argentina78',
-				estado:'1'
-			},
-			{
-				id: 4 ,
-			titulo_resp:'Alemania74',
-			estado:'0'
-			}
-																																
-		]
-
-			}																				
-						
-					 
-
+	
 ];
 
 let leyenda=[
