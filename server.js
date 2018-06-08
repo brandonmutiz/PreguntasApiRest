@@ -9,6 +9,24 @@ const PORT = process.env.PORT || 5000
 let users = ['BranndonGame', 'EstebanLGTBI', 'JuanChote9712'];
 let niveles = ['juvenil', 'profesional', 'estrella', 'leyenda'];
 let estado =['1','0']
+let registro=[{
+			usuario:'brandon',
+			contraseña:'123'
+
+},
+
+			usuario:'admin'
+			contraseña:'1234'
+
+];
+
+let respuestasprofesional=[{
+	respuesta3:'correcta'
+	respuesta3:'correcta'
+	respuesta3:'correcta'
+	respuesta3:'correcta'
+
+}];
 
 
 let mundiales=[{
