@@ -1314,6 +1314,12 @@ app.get('/users', (req, res) => {
     res.send(users)
 })
 
+// URL para listar todos los usuarios
+// http://127.0.0.1:5000/users
+app.get('/respuestascorrectas', (req, res) => {
+    res.send(respuestascorrectas)
+})
+
 // URL para listar todos los estados
 // http://127.0.0.1:5000/estados
 app.get('/estado', (req, res) => {
