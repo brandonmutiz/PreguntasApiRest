@@ -66,9 +66,12 @@ let respuestasprofesional=[{
 }];
 
 
-let mundiales=[{
-	nom_mundi:'Mundial de Fútbol Brasil 2014',
-	photo: 'http://img.fifa.com/mm/photo/tournament/competition/01/27/05/83/1270583_large-lnd.jpg'
+let mundiales=[
+
+{	nom_mundi:'Mundial de Fútbol Qatar 2022',
+	photo:'https://upload.wikimedia.org/wikipedia/commons/6/69/Qatar_2022_Logo.png'
+
+
 },
 
 
@@ -76,12 +79,13 @@ let mundiales=[{
 	photo:'https://images.vexels.com/media/users/3/143513/preview2/5974ca34f57b8dbcf2a9c79e1881eb88-emblema-de-rusia-2018.jpg'
 
 },
-
-{	nom_mundi:'Mundial de Fútbol Qatar 2022',
-	photo:'https://upload.wikimedia.org/wikipedia/commons/6/69/Qatar_2022_Logo.png'
-
-
+{
+	nom_mundi:'Mundial de Fútbol Brasil 2014',
+	photo: 'http://img.fifa.com/mm/photo/tournament/competition/01/27/05/83/1270583_large-lnd.jpg'
 },
+
+
+
 {	nom_mundi:'Mundial de Fútbol Uruguay 1930',
 	photo:'https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Uruguay_1930_World_Cup.jpg/200px-Uruguay_1930_World_Cup.jpg'
 
