@@ -12,7 +12,7 @@ let respuestascorrectas=[
 
 
 {
-
+	tipo:'juvenil',
  respuesta1: 'Roger Hunt ',
  respuesta2: 'Vittorio Pozo',
  respuesta3: 'Brasil vs Uruguay',
