@@ -17,6 +17,7 @@ let respuestascorrectas=[
  respuesta2: 'Vittorio Pozo',
  respuesta3: 'Brasil vs Uruguay',
  respuesta4: 'Los 40',
+ respuesta5: '1970'
 
 
 
@@ -29,6 +30,7 @@ tipo:'estrella',
  respuesta2: 'Hakan Ükür',
  respuesta3: 'España1982',
  respuesta4: 'Brasil',
+ respuesta5: 'Argentina78'
 },
 
 {
@@ -38,6 +40,7 @@ tipo:'leyenda',
  respuesta2: 'Saint Dennis',
  respuesta3: 'Marcos Coll',
  respuesta4: 'México 1970',
+ respuesta5:'Manuel Rosas'
 }
 
 
