@@ -8,6 +8,21 @@ const PORT = process.env.PORT || 5000
 
 let niveles = ['juvenil', 'profesional', 'estrella', 'leyenda'];
 let estado =['1','0']
+let respuestascorrectas=[
+
+
+{
+
+ respuesta1: 'Roger Hunt ',
+ respuesta2: 'Vittorio Pozo',
+ respuesta3: 'Brasil vs Uruguay',
+ respuesta4: 'Los 40',
+ respuesta5: '1962'
+
+
+
+}];
+
 let users=[{
 			id: 0,
 			user:'brandon',
