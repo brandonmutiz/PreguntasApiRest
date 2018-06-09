@@ -520,7 +520,6 @@ let estrella=[
 	correcta:'3'
 	
 }
-
 	
 ];
 
@@ -528,7 +527,7 @@ let leyenda=[
 
 {
 	nom_tipo:'leyenda',
-	nom_pregunta:'¿Cuál es el jugador con la expulsión más rápida con 52 segundos en la historia de los mundiales?',
+	nom_pregunta:'¿Cuál es el jugador con la expulsión más rápida en la historia de los mundiales?',
 	respuesta1: 'Jorge Batista',
 	respuesta2: 'Jose Valdano',
 	respuesta3: 'Enzo Scifo',
