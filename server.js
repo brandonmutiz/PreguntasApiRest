@@ -1364,7 +1364,7 @@ app.post('/signup', (req, res) => {
      let itemUser = {
          id: consecutive,
          user: data.user,
-         password: data.pass,
+         password: data.pass
     };
     users.push(itemUser)
    // res.send(itemUser)
