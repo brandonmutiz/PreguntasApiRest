@@ -12,16 +12,36 @@ let respuestascorrectas=[
 
 
 {
-	tipo:'juvenil',
+	tipo:'profesional',
  respuesta1: 'Roger Hunt ',
  respuesta2: 'Vittorio Pozo',
  respuesta3: 'Brasil vs Uruguay',
  respuesta4: 'Los 40',
- respuesta5: '1962'
 
 
 
-}];
+
+},
+{
+
+tipo:'estrella',
+ respuesta1: 'Holanda',
+ respuesta2: 'Hakan Ükür',
+ respuesta3: 'España1982',
+ respuesta4: 'Brasil',
+},
+
+{
+
+tipo:'leyenda',
+ respuesta1: 'Jorge Batista',
+ respuesta2: 'Saint Dennis',
+ respuesta3: 'Marcos Coll',
+ respuesta4: 'México 1970',
+}
+
+
+];
 
 let users=[{
 			id: 0,
