@@ -32,17 +32,17 @@ let respuestasprofesional=[{
 
 
 let mundiales=[{
-	nom_mundi:'brazil2014',
+	nom_mundi:'Mundial de Fútbol Brasil 2014',
 	photo: 'http://img.fifa.com/mm/photo/tournament/competition/01/27/05/83/1270583_large-lnd.jpg'
 },
 
 
-{	nom_mundi:'rusia2018',
+{	nom_mundi:'Mundial de Fútbol Rusia 2018',
 	photo:'https://images.vexels.com/media/users/3/143513/preview2/5974ca34f57b8dbcf2a9c79e1881eb88-emblema-de-rusia-2018.jpg'
 
 },
 
-{	nom_mundi:'qatar2022',
+{	nom_mundi:'Mundial de Fútbol Qatar 2022',
 	photo:'https://upload.wikimedia.org/wikipedia/commons/6/69/Qatar_2022_Logo.png'
 
 
