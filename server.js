@@ -122,8 +122,8 @@ let mundiales=[
 
 },
 
-{	nom_mundi:'Mundial de Fútbol Suecia 1962',
-	photo:'https://pics.filmaffinity.com/fussballweltmeisterschaft_chile_1962-354711969-large.jpg'
+{	nom_mundi:'Mundial de Fútbol Chile 1962',
+	photo:'http://pm1.narvii.com/6514/2294fc5330963137f3822634fbba887429e198ea_00.jpg'
 
 }
 
