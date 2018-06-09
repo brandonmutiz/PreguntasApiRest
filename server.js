@@ -6,17 +6,19 @@ const app = express()
 const hostname = 'https://brandonmutizapirest.herokuapp.com';
 const PORT = process.env.PORT || 5000
 
-let users = ['BranndonGame', 'EstebanLGTBI', 'JuanChote9712'];
 let niveles = ['juvenil', 'profesional', 'estrella', 'leyenda'];
 let estado =['1','0']
-let registro=[{
-			usuario:'brandon',
-			contraseña:'123'
+let users=[{
+			id: 0,
+			user:'brandon',
+			password:'123'
 
 },
 
-			{usuario:'admin',
-			contraseña:'1234'
+			{
+				id:1,
+				user:'admin',
+			password:'1234'
 }
 ];
 
@@ -1355,6 +1357,36 @@ app.delete('/users/:id',(req, res) => {
     let params = req.params;
     users.splice(params.id, 1);
     res.send('User delete')
+})
+app.post('/signup', (req, res) => {
+    let data = req.body;
+    let consecutive = users.length;
+     let itemUser = {
+         id: consecutive,
+         user: data.user,
+         password: data.pass,
+    };
+    users.push(itemUser)
+   // res.send(itemUser)
+     res.send("usuario creado correctamente")
+})
+app.post('/login', (req, res) => {
+    let data = req.body;
+    let login = [{searchUser: false,id: '0',user: '',password: ''}];
+
+    users.some(function (value, index, _arr) {
+        if( (value.user == data.user) && (value.password == data.pass) ){
+            login[0]['searchUser'] = true;
+            login[0]['id'] = value.id;
+            login[0]['user'] = value.user;
+            login[0]['password'] = value.password;
+            return true;
+        }else{
+            return false;
+        }
+    });
+
+    res.send(login)
 })
 
 // ********************************************************************
